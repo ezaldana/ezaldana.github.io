@@ -1,2 +1,2 @@
-# ezaldana.github.io
-Personal Website For COMP 150 Project 2
+# COMP150_F26_Project2
+Template code for COMP150_F26_Project2
