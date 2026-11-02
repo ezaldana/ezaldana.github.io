@@ -2,6 +2,9 @@ body {
   background-image: url("cd8289f8-f3c7-4ac9-9f5b-a88acc6d96dc.jpg");
   background-size:cover;
   background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
 }
 h1 {
   color: blue;
