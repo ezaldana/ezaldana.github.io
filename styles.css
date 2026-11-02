@@ -1,7 +1,7 @@
 body {
   background-image: url("eb39b513-ae57-4e9f-b6af-2dacd16b0f18.jpg");
   background-size:cover;
-  background-position: center;
+  background-position: center bottom;
   background-repeat: no-repeat;
   background-attachment: fixed;
   min-height: 100vh;
