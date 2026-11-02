@@ -1,5 +1,7 @@
 body {
-  background-color: powderblue;
+  background-color: url("25b847b8-4ab6-4157-aed1-b22a7c328770.jpg");
+  background-size:cover;
+  background-position: center;
 }
 h1 {
   color: blue;
