@@ -1,4 +1,7 @@
 body {
+  margin: 0;
+}
+#home {
   background-image: url("eb39b513-ae57-4e9f-b6af-2dacd16b0f18.jpg");
   background-size:cover;
   background-position: center bottom;
@@ -6,6 +9,12 @@ body {
   background-attachment: fixed;
   min-height: 100vh;
 }
+
+#about{
+  background-color: white;
+  min-height: 100vh;
+}
+
 h1 {
   color: black;
 }
