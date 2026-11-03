@@ -10,26 +10,6 @@ body {
   min-height: 100vh;
 }
 
-.navbar ul{
-  list-style-type:none;
-  background-color: #11261A;
-  padding: 0px;
-  margin: 0px;
-  overflow:hidden;
-}
-
-.navbar li{
-  float:left;
-}
-color: white;
-  text-decoration: none ; 
-  padding: 15 px;
-  display: block;
-  text-align: center;
-}
-.navbar a:hover{
-  
-
 #about{
   background-color: white;
   min-height: 100vh;
