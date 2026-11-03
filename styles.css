@@ -37,3 +37,8 @@ p {
   padding: 20px;
   text-align: center;
 }
+.navbar a{
+  color:white;
+  text-decoration: none;
+  margin: 15px;
+}
