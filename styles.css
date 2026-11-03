@@ -9,6 +9,12 @@ body {
   background-attachment: fixed;
   min-height: 100vh;
 }
+#home h1{
+  font-size: 60px;
+  text-align: center;
+  padding-top: 120px;
+  margin-top:0;
+}
 
 #about{
   background-color: white;
