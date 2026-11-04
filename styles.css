@@ -64,7 +64,7 @@ h1 {
   border-radius:8px;
 }
 .photo-collage .wide-photo{
-  grid-column: 1/ 1-;
+  grid-column: 1/ -1;
   height:250px;
 }
 .about-pictures{
