@@ -59,8 +59,7 @@ h1 {
 }
 .photo-collage img{
   width: 100%;
-  height: 180px;
-  object-fit: cover;
+  height: auto;
   border-radius:8px;
 }
 .photo-collage .wide-photo{
