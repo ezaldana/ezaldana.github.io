@@ -36,7 +36,14 @@ body {
   padding-top:5px;
   margin-bottom:10px;
 }
-.about
+.about-me{
+  text-align:center;
+  color:#55705B;
+  font-size:14px;
+  letter-spacing:3px;
+  padding-top:35px;
+  margin-bottom:5px;
+}
 
 .navbar{
   background-color: #11261A;
