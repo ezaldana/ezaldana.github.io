@@ -58,6 +58,7 @@ h1 {
   width: 100%;
   max-width:550px;
   margin: 0 auto;
+  justify-items:stretch;
 }
 .photo-collage img{
   width: 100%;
@@ -89,15 +90,13 @@ h1 {
   grid-column: 2/4;
   grid-row: 3;
   object-fit: contain;
-  justify-self:center;
-  width:100%;
+  background-color:white;
 }
 .cubs-photo{
   grid-column: 4/6;
   grid-row: 3;
   object-fit: contain;
-  justify-self:center;
-  width:100%;
+  background-color:white;
 }
 .about-pictures{
   display:flex;
