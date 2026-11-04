@@ -53,6 +53,7 @@ h1 {
 .photo-collage {
   display:grid;
   grid-template-columns: repeat(6,1fr);
+  grid-template-rows:120px 120px 220px;
   gap:12px;
   width: 100%
   max-width:550px;
