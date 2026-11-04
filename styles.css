@@ -35,15 +35,7 @@ h1 {
   margin-top:0;
   padding-top: 40px;
 }
-p {
-  color: red;
-}
-/** CSS comments are written enclosed with these characters **/
 
-
-.myclass {
-  background-color: #fff7e8; /** hex codes also work for colors **/
-}
 
 #unique-id {
   font-family: Arial, Helvetica, sans-serif; /** you can specify common font families OR link to a Google Font API **/
