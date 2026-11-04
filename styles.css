@@ -45,6 +45,12 @@ body {
   margin-bottom:5px;
 }
 
+about-info{
+  text-align:center;
+  color:#525658;
+  font-size:18pxl
+  font-style:italic;
+}
 .navbar{
   background-color: #11261A;
   padding: 20px;
