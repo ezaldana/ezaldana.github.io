@@ -25,21 +25,22 @@ body {
 }
 
 #about{
-  background-color: #DCE5DC;
+  background-color: #102A3A;
   min-height: 100vh;
+  padding-bottom:40px;
 }
 
 #about h1{
   font-family: Georgia, serif;
   font-size:44px;
-  color:#263E36;
+  color:#FFFFFF;
   padding-top:5px;
   margin-bottom:10px;
   text-align:center;
 }
 .about-me{
   text-align:center;
-  color:#55705B;
+  color:#9AD5DF;
   font-size:14px;
   letter-spacing:3px;
   padding-top:35px;
@@ -48,7 +49,7 @@ body {
 
 .about-info{
   text-align:center;
-  color:#525658;
+  color:#C5DDE3;
   font-size:18px;
   font-style:italic;
   margin-top:0;
@@ -76,10 +77,10 @@ body {
   height:280px;
   max-width:100%;
   object-fit:contain;
-  border: 3px solid #263E36;
+  border: 3px solid #9ad5df;
   border-radius:8px;
   padding:5px;
-  background-color:white;
+  background-color:#102A3A;
   box-sizing:border-box;
 }
 .about-pictures{
@@ -90,12 +91,12 @@ body {
   padding:40px;
   max-width:1000px;
   margin:20px auto;
-  background-color:white;
+  background-color:#1B3C4D;
   border-radius:15px;
   box-shadow: 0 5px 20px rgba(0,0,0,0.1);
 }
 .about-pictures p {
-  color: #263e36;
+  color: #EAF3F4;
   font-size: 18px;
   line-height: 1.6;
   flex: 1;
