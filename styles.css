@@ -59,12 +59,13 @@ h1 {
 }
 .photo-collage img{
   width: 100%;
-  height: auto;
+  height: 200px;
+  object-fit:contain;
   border-radius:8px;
 }
 .photo-collage .wide-photo{
   grid-column: 1/ 1-;
-  height:220px;
+  height:250px;
 }
 .about-pictures{
   display:flex;
