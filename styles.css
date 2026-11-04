@@ -102,4 +102,6 @@ body {
   flex: 1;
   max-width:850px;
   text-align:center;
+  font-family:"Caveat",cursive;
+  font-size:25px;
 }
