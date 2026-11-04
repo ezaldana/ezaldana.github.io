@@ -55,7 +55,7 @@ h1 {
   grid-template-columns: repeat(6,1fr);
   gap:12px;
   width: 100%
-  max-width:750px;
+  max-width:550px;
   margin: 0 auto;
 }
 .photo-collage img{
