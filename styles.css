@@ -20,7 +20,7 @@ body {
   font-size:50px;
   color:#FFFFFF;
   text-align:center;
-  padding-top:300;
+  padding-top:300px;
   margin-top:0;
 }
 
@@ -97,7 +97,6 @@ body {
 }
 .about-pictures p {
   color: #EAF3F4;
-  font-size: 18px;
   line-height: 1.6;
   flex: 1;
   max-width:850px;
