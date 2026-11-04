@@ -63,6 +63,10 @@ h1 {
   object-fit: cover;
   border-radius:8px;
 }
+.photo-collage .wide-photo{
+  grid-column: 1/ 1-;
+  height:220px;
+}
 .about-pictures{
   display:flex;
   align-items: center;
