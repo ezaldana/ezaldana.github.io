@@ -103,4 +103,40 @@ body {
   max-width:850px;
   text-align:center;
 }
+#about {
+  position: relative;
+  overflow: hidden;
+  border-left: 0;
+  border-right: 0;
+}
 
+#about::before,
+#about::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 45px;
+  pointer-events: none;
+
+  background:
+    repeating-radial-gradient(
+      ellipse 28px 65px at 0% 50%,
+      transparent 0px 7px,
+      #397FA3 8px 10px,
+      transparent 11px 15px,
+      #9AD5DF 16px 18px,
+      transparent 19px 23px
+    );
+
+  opacity: 0.8;
+}
+
+#about::before {
+  left: 0;
+}
+
+#about::after {
+  right: 0;
+  transform: scaleX(-1);
+}
