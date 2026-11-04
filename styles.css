@@ -75,6 +75,11 @@ h1 {
   align-items: center;
   gap:25px;
   padding:40px;
+  max-width:1000px;
+  margin:20px auto;
+  bnackground-color:white;
+  border-radius:15px;
+  box-shawdow: 0 5px 20px rgba(0,0,0,0.1);
 }
 .about-pictures p {
   color: #263e36;
