@@ -35,6 +35,7 @@ body {
   color:#263E36;
   padding-top:5px;
   margin-bottom:10px;
+  text-align:center;
 }
 .about-me{
   text-align:center;
@@ -45,10 +46,10 @@ body {
   margin-bottom:5px;
 }
 
-about-info{
+.about-info{
   text-align:center;
   color:#525658;
-  font-size:18pxl
+  font-size:18px;
   font-style:italic;
   margin-top:0;
 }
@@ -89,9 +90,9 @@ about-info{
   padding:40px;
   max-width:1000px;
   margin:20px auto;
-  bnackground-color:white;
+  background-color:white;
   border-radius:15px;
-  box-shawdow: 0 5px 20px rgba(0,0,0,0.1);
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
 }
 .about-pictures p {
   color: #263e36;
