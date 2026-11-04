@@ -60,7 +60,7 @@ h1 {
 }
 .photo-collage img{
   width:auto;
-  height:200px;
+  height:280px;
   max-width:100%;
   object-fit:contain;
   border: 3px solid #263E36;
@@ -81,5 +81,7 @@ h1 {
   font-size: 18px;
   line-height: 1.6;
   flex: 1;
+  max-width:850px;
+  text-align:center;
 }
 
