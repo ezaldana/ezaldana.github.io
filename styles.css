@@ -70,3 +70,9 @@ p {
   object-fit: cover;
   border-radius:8px;
 }
+.about-content{
+  display:flex;
+  align-items: center;
+  gap:40px;
+  padding:40px;
+}
