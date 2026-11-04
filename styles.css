@@ -54,7 +54,8 @@ h1 {
   display:grid;
   grid-template-columns: 1fr 1fr;
   gap:10px;
-  width:100%;
+  flex:1;
+  min-width:0;
 }
 .photo-collage img{
   width: 100%;
@@ -72,4 +73,6 @@ h1 {
   color: #263e36;
   font-size: 18px;
   line-height: 1.6;
+  flex: 1;
 }
+
