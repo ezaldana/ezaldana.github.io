@@ -74,7 +74,7 @@ body {
 }
 .photo-collage img{
   width:auto;
-  height:280px;
+  height:310px;
   max-width:100%;
   object-fit:contain;
   border: 3px solid #9ad5df;
