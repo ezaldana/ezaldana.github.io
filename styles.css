@@ -81,12 +81,14 @@ h1 {
   grid-row: 2;
 }
 .seattle-photo{
-  grid-column: 4/7;
+  grid-column: 2/4;
   grid-row: 3;
+  object-fit: contain !important;
 }
 .cubs-photo{
-  grid-column: 4/7;
+  grid-column: 4/6;
   grid-row: 3;
+  object-fit: contain !important;
 }
 .about-pictures{
   display:flex;
