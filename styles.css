@@ -89,11 +89,15 @@ h1 {
   grid-column: 2/4;
   grid-row: 3;
   object-fit: contain;
+  justify-self:center;
+  width:100%;
 }
 .cubs-photo{
   grid-column: 4/6;
   grid-row: 3;
   object-fit: contain;
+  justify-self:center;
+  width:100%;
 }
 .about-pictures{
   display:flex;
